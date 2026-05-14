@@ -9,7 +9,7 @@ function App() {
   return (
     <div className='font-inter flex h-screen'>
       <Sidebar />
-      <div className='flex flex-col'>
+      <div className='flex flex-col w-full'>
         <Header />
         <Main />
       </div>
